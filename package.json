@@ -1,0 +1,16 @@
+{
+  "name": "vaelix-admin",
+  "version": "1.0.0",
+  "description": "Vaelix Admin local Panel",
+  "main": "index.js",
+  "type": "module",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
