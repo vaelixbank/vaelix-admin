@@ -1,6 +1,6 @@
 import React from 'react';
 import { Routes, Route, Navigate } from 'react-router-dom';
-import Login from './pages/Login'; // Corrige le chemin selon ta structure
+import Login from './pages/Login';
 
 const App: React.FC = () => {
   return (
