@@ -1,5 +1,6 @@
 import React from 'react';
 import { Routes, Route, Navigate } from 'react-router-dom';
+import './styles/index.css'; // Assuming you have a global CSS file for styles
 import Login from './pages/Login';
 
 const App: React.FC = () => {

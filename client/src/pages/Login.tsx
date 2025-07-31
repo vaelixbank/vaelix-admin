@@ -64,7 +64,7 @@ const Login: React.FC = () => {
         <section className="hidden md:flex w-1/2 bg-gradient-to-tr from-blue-700 to-blue-400 text-white items-center justify-center p-10">
           <div className="max-w-md space-y-6">
             <h1 className="text-4xl font-extrabold tracking-tight leading-tight">
-              Bienvenue chez NeoBank
+              Bienvenue chez Vaelix Bank
             </h1>
             <p className="text-lg opacity-90">
               Gérez vos finances en toute simplicité, où que vous soyez. Une banque 100% digitale à portée de clic.
@@ -84,7 +84,7 @@ const Login: React.FC = () => {
               Connexion à votre compte
             </h2>
             <p className="text-center text-gray-600 mb-8">
-              Bienvenue chez <span className="font-semibold text-blue-600">NeoBank</span>
+              Bienvenue chez <span className="font-semibold text-blue-600">Vaelix Bank</span>
             </p>
 
             <form onSubmit={handleSubmit} className="space-y-6">
